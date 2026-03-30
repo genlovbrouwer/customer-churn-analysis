@@ -329,7 +329,6 @@ customer-churn-analysis/
 ├── data/
 │   ├── raw/
 │   ├── clean/
-│   └── dashboard/
 ├── images/
 │   ├── churn_by_contract.png
 │   ├── churn_by_tenure.png
